@@ -21,3 +21,5 @@ Here in this project I have analysed the huge dataset of Terrorism where all the
 
 ● You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+
+ ### Dataset : globalterrorismdb_0718dist.csv [https://bit.ly/2TK5Xn5]
