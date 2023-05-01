@@ -23,3 +23,14 @@ Here in this project I have analysed the huge dataset of Terrorism where all the
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 
  ### Dataset : globalterrorismdb_0718dist.csv [https://bit.ly/2TK5Xn5]
+ 
+ 
+ 
+## Task-3 : Prediction-using-Decision-Tree-Algorithm
+
+Here in this project I have analysed the Iris dataset where all the details are being provided Prediction using Decision Tree Algorithm.
+
+Created the Decision Tree classifier and visualized it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
+
+(Level - Intermediate)
+
